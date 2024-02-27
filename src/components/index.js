@@ -8,6 +8,8 @@ import Input from './Input';
 import Login from "./Login";
 import RTE from "./RTE";
 import Select from './Select';
+import Signup from "./Signup";
+import PostForm from './post-form/PostForm'
 
 export{
     Header,
@@ -19,6 +21,8 @@ export{
     Input,
     Button,
     RTE,
-    Select
+    Select,
+    Signup,
+    PostForm
 
 }
